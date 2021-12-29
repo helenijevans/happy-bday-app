@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
-    <string name="happy_not_birthday_text">Happy Not-Birthday Arttee!</string>
-    <string name="signature_text">From Helen :)</string>
+    <string name="happy_birthday_text">Happy Birthday</string>
+    <string name="from_text">From</string>
     <string name="party_time">party time</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="sender_name">Sender Name</string>
 </resources>
