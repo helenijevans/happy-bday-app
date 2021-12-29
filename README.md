@@ -27,3 +27,5 @@ Simple static not-birthday message with To and From
 
 * any card? (future scope)
 
+* ~~Textboxes for To and from~~
+
