@@ -4,7 +4,6 @@ upskilling in kotlin
 ## current state 
 Simple static not-birthday message with To and From
 ## improvements and next actions
-* Add textbox on app to edit To and From names - PRIORITY
 * Make a wireframe - PRIORITY
 * Homepage
 * Routing
