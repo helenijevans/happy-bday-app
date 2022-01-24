@@ -2,7 +2,7 @@
 ## motivation
 upskilling in kotlin
 ## current state 
-Simple static not-birthday message with To and From
+Customisable birthday message with To and From, toggle button to switch between a background and no background
 ## improvements and next actions
 * Make a wireframe - partially done, paused
 * Selection of background images
