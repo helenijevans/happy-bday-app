@@ -4,7 +4,8 @@ upskilling in kotlin
 ## current state 
 Simple static not-birthday message with To and From
 ## improvements and next actions
-* Make a wireframe - PRIORITY
+* Make a wireframe - partially done, paused
+* Selection of background images
 * Homepage
 * Routing
 * Better UI 
@@ -16,7 +17,6 @@ Simple static not-birthday message with To and From
 * Ability to share screenshot to people on their bday
   * Whatsapp, Slack, FB
   * Messages
-* Selection of background images
 * Calendar
 * Ability to push notifications (different types of notifications) - some are interactable, Mark As Read, Reply etc. (reminder)
 * Can save graphics to local storage
