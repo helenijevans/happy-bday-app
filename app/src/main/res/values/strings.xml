@@ -5,4 +5,5 @@
     <string name="party_time">party time</string>
     <string name="recipient_name">Recipient Name</string>
     <string name="sender_name">Sender Name</string>
+    <string name="switchbutton">SWITCH</string>
 </resources>
