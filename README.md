@@ -5,7 +5,8 @@ upskilling in kotlin
 Customisable birthday message with To and From, toggle button to switch between a background and no background
 ## improvements and next actions
 * Make a wireframe - partially done, paused
-* Selection of background images
+
+* Be able to move around elements
 * Homepage
 * Routing
 * Better UI 
@@ -28,4 +29,5 @@ Customisable birthday message with To and From, toggle button to switch between 
 * any card? (future scope)
 
 * ~~Textboxes for To and from~~
+* ~~Selection of background images~~
 
